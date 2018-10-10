@@ -1,0 +1,1 @@
+<h2>Your Order Successfully Placed . We Will contact You Soon ! </h2>
